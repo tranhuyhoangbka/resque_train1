@@ -3,7 +3,7 @@ class Count
 
   class << self
     def perform args
-      puts "result is #{args * 3}"
+      puts "result is #{args * 3}\n"
     end
   end
 end

@@ -2,7 +2,8 @@ source 'https://rubygems.org'
 
 gem "resque"
 gem "faker"
-gem "airbrake"
+gem "resque-scheduler"
+gem "resque-pool"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
