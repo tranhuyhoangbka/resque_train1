@@ -1,2 +1,2 @@
-CountFrequency:
+Counter:
   cron: "*/1 * * * *"
